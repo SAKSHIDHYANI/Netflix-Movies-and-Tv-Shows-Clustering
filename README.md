@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="image/netflix.jpg"  alt="..."width="200px" height="200px">
+  <img src="image/netflix.png"  alt="..."width="80px" height="80px">
 </p>
 <h1 align="center"> Netflix Movies and TV Shows Clustering </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
